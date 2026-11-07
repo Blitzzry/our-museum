@@ -1,0 +1,109 @@
+{
+    "site": {
+      "name": "Nuestro museo",
+      "description": "Un lugar para nuestra historia"
+    },
+    "navbar": {
+      "home": "Inicio",
+      "gallery": "Galería",
+      "story": "Nuestra historia",
+      "littleThings": "Pequeñas cosas",
+      "letters": "Cartas",
+      "future": "El futuro",
+      "menu": "Abrir menú"
+    },
+    "home": {
+      "eyebrow": "BIENVENIDOS A NUESTRO MUSEO",
+      "title": "Nuestra historia",
+      "description": "Un lugar donde cada imagen, palabra y momento tiene un significado especial.",
+      "primaryButton": "Entrar a nuestra historia",
+      "scrollText": "Desliza para comenzar",
+      "signature": "Tú y yo, siempre."
+    },
+    "gallery": {
+      "eyebrow": "NUESTRA COLECCIÓN",
+      "title": "Una galería de recuerdos",
+      "description": "Cada fotografía guarda una historia. Cada historia, un pedacito de nosotros.",
+      "filters": {
+        "all": "Todos",
+        "adventures": "Aventuras",
+        "special": "Días especiales",
+        "everyday": "Cotidianos"
+      },
+      "emptyTitle": "Nuestra galería está esperando nuevos recuerdos",
+      "emptyDescription": "Todavía quedan muchas fotografías por enmarcar.",
+      "addButton": "Agregar fotografía"
+    },
+    "story": {
+      "eyebrow": "EL RECORRIDO DE NUESTRA HISTORIA",
+      "title": "Nuestra línea de tiempo",
+      "description": "Un recorrido por los momentos que nos trajeron hasta aquí.",
+      "scrollHint": "Desliza para recorrer nuestros recuerdos",
+      "addButton": "Agregar nuevo momento",
+      "emptyTitle": "Un nuevo capítulo está por escribirse",
+      "emptyDescription": "Hay muchas historias que todavía merecen un lugar en nuestro museo.",
+      "formTitle": "Agregar un recuerdo",
+      "saveButton": "Guardar recuerdo",
+      "cancelButton": "Cancelar"
+    },
+    "littleThings": {
+      "eyebrow": "LOS DETALLES TAMBIÉN CUENTAN",
+      "title": "Pequeñas cosas",
+      "description": "Porque a veces los recuerdos más bonitos no son los más grandes, sino esos pequeños detalles que solamente nosotros entendemos."
+    },
+    "letters": {
+      "eyebrow": "PALABRAS QUE QUIERO GUARDAR",
+      "title": "Cartas para ti",
+      "description": "Hay cosas que merecen ser escritas para que puedas volver a leerlas siempre que quieras.",
+      "addButton": "Escribir una carta",
+      "emptyTitle": "Todavía hay muchas palabras por escribir",
+      "emptyDescription": "Este espacio está reservado para todas las cosas que quiero decirte.",
+      "formTitle": "Una carta para ti",
+      "titlePlaceholder": "Escribe un título...",
+      "messagePlaceholder": "Quiero que sepas que...",
+      "saveButton": "Guardar carta",
+      "cancelButton": "Cancelar"
+    },
+    "future": {
+      "eyebrow": "LO QUE TODAVÍA NOS ESPERA",
+      "title": "Y lo mejor aún está por vivir",
+      "description": "Nuestra historia no termina aquí. Todavía quedan lugares por conocer, fotografías por tomar, sueños por cumplir y muchísimos momentos por compartir.",
+      "message": "Gracias por ser parte de esta historia. Quiero seguir llenando estas páginas contigo.",
+      "primaryButton": "Seguir escribiendo nuestra historia",
+      "secondaryButton": "Volver al inicio",
+      "signature": "Por todos los capítulos que nos faltan."
+    },
+    "footer": {
+      "description": "Una historia, dos personas y recuerdos infinitos.",
+      "message": "Hecho con amor, para nosotros.",
+      "copyright": "Nuestra historia, siempre."
+    },
+    "common": {
+      "buttons": {
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "close": "Cerrar",
+        "back": "Volver",
+        "add": "Agregar",
+        "continue": "Continuar",
+        "viewMore": "Ver más",
+        "viewLess": "Ver menos"
+      },
+      "states": {
+        "loading": "Preparando nuestros recuerdos...",
+        "saving": "Guardando...",
+        "empty": "Todavía no hay recuerdos aquí.",
+        "success": "Se ha guardado correctamente.",
+        "error": "Ha ocurrido un error. Inténtalo nuevamente."
+      },
+      "confirmation": {
+        "deleteTitle": "¿Estás seguro?",
+        "deleteDescription": "Esta acción no se puede deshacer.",
+        "confirm": "Sí, eliminar",
+        "cancel": "Conservar"
+      }
+    }
+  }
+  
