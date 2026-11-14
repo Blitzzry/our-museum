@@ -7,7 +7,7 @@ export type Moment = {
     image: string;
     width: number;
     height: number;
-    category: "trips" | "special" | "adventures" | "us";
+    category: "trips" | "special" | "everyday";
     description?: string;
   };
   
@@ -17,8 +17,8 @@ export type Moment = {
         title: 'Jardin',
         date: '2026-09-19',
         place: 'Jardin, Colombia',
-        image: '/images/2026-09-19-1.JPG',
-        category: "adventures",
+        image: '/images/2026-09-19-1.jpeg',
+        category: "trips",
         width: 1524,
         height: 2032
     },
@@ -27,7 +27,7 @@ export type Moment = {
         title: 'Noche de cine',
         date: '2026-04-04',
         place: 'Medellin, Colombia',
-        image: '/images/2026-04-04-1.JPG',
+        image: '/images/2026-04-04-1.jpeg',
         category: "special",
         width: 1524,
         height: 2032
@@ -40,6 +40,6 @@ export type Moment = {
         image: '/images/2026-10-01-1.JPG',
         category: "trips",
         width: 900,
-        height: 1600
+        height: 966
     }
   ];

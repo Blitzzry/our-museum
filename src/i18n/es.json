@@ -26,7 +26,7 @@
       "description": "Cada fotografía guarda una historia. Cada historia, un pedacito de nosotros.",
       "filters": {
         "all": "Todos",
-        "adventures": "Aventuras",
+        "trips": "Paseos",
         "special": "Días especiales",
         "everyday": "Cotidianos"
       },

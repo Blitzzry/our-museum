@@ -1,0 +1,56 @@
+.filters {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
+
+.filterButton {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    width: 100%;
+    padding: 9px 10px;
+
+    border: none;
+    border-radius: 6px;
+    background: transparent;
+
+    color: #514B42;
+    font-family: var(--font-inter), sans-serif;
+    font-size: 13px;
+    text-align: left;
+
+    cursor: pointer;
+    transition:
+        background-color 180ms ease,
+        color 180ms ease;
+}
+
+.filterButton span:first-of-type {
+    flex: 1;
+}
+
+.count {
+    color: #817362;
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+}
+
+.filterButton:hover:not(.active) {
+    background-color: rgba(232, 220, 198, 0.45);
+}
+
+.active {
+    background-color: #E8DCC6;
+    color: #785A36;
+}
+
+.active svg {
+    color: #96713B;
+}
+
+.active .count {
+    color: #785A36;
+}

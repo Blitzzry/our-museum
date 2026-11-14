@@ -1,19 +1,13 @@
 .heroImage {
-    position: relative;
-    overflow: hidden;
-    mask-image: linear-gradient(
-      to right,
+  position: relative;
+  overflow: hidden;
+  mask-image: linear-gradient(to right,
       transparent 0%,
       black 30%,
-      black 100%
-    );
-  
-    -webkit-mask-image: linear-gradient(
-      to right,
-      transparent 0%,
-      black 30%,
-      black 100%
-    );
-  }
+      black 100%);
 
-  
+  -webkit-mask-image: linear-gradient(to right,
+      transparent 0%,
+      black 30%,
+      black 100%);
+}
